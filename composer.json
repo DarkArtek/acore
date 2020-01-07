@@ -1,5 +1,5 @@
 {
-    "name": "ahdcreative/azuracore",
+    "name": "ahdcreative/acore",
     "description": "A lightweight core application framework.",
     "license": "Apache-2.0",
     "require": {
