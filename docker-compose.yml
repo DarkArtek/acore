@@ -1,0 +1,11 @@
+version: '2.2'
+
+services:
+  cli:
+    image: ahdcreative/acast_testing:latest
+    volumes:
+    - ./:/app
+    - composer_data:/tmp
+
+  volumes:
+    composer_data: {}
